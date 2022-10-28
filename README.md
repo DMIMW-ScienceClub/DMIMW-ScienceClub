@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 
 ## CONTACT INFORMATION
--   Sci.eng.club eMail: scienceclub.dmimw@gmail.com
+-   Scince and Engeneering Club's eMail: scienceclub.dmimw@gmail.com
 
 ## OUR GITHUB STATS
 [![Scince and Engeneering Club's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DMIMW-ScienceClub)](https://github.com/DMIMW-ScienceClub/github-readme-stats)
