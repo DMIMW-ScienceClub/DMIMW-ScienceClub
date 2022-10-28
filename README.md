@@ -8,6 +8,8 @@
 ## CONTACT INFORMATION
 -   Sci.eng.club eMail: scienceclub.dmimw@gmail.com
 
+## OUR GITHUB STATS
+[![ScinceCLubs's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DMIMW-ScinceClub)](https://github.com/DMIMW-ScinceClub/github-readme-stats)
 <!---
 DMIMW-ScienceClub/DMIMW-ScienceClub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
